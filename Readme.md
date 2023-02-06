@@ -12,3 +12,6 @@ En este proyecto, vamos a usar redes neuronales convolucionales para construir, 
 
 In this project, we will use Convolutional Neural Network to build train and test a traffic sign classification model. We will build this model using Tensorflow and Keras. It is a multiclass classification problem. This model can be used in autonomus cars to recognize difertens traffic signs.
 
+## Algunas capturas de imagenes del proyecto:
+
+![Capas y neuronas](./images/image1.png
