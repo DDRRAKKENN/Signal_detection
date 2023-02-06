@@ -14,4 +14,4 @@ In this project, we will use Convolutional Neural Network to build train and tes
 
 ## Algunas capturas de imagenes del proyecto:
 
-![Capas y neuronas](./images/image1.png
+![Capas y neuronas](./images/image1.png)
